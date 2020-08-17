@@ -1,12 +1,3 @@
-# Data_Science_Projects
-Data science projects throughout my course
+# International Student forecast
 
-The projects include:
-1) Machine Learning with Python:- 
-Performed Data Analysis on a past loan related dataset to predict whether future loans should be approved or not via Machine Learning algorithms in Python
-
-2) Battle of Neighborhoods
-Performed data analysis to determine the effect of existence of hospitals in its vicinity.
-
-3) Forecasting International students in Australia
-Predicting the number of international students who wll enroll by December 2020 in Australia universities.
+An analysis was performed and predicions were made regarding the number of incoming international students in Australia based on the current trends and a survey conducted by QS.
